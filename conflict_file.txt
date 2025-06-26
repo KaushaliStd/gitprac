@@ -1,1 +1,1 @@
-content from branchB
+resolved both branches
